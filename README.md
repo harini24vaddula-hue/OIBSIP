@@ -27,4 +27,4 @@ Project File
 Iris_Flower_Classification.ipynb
 
 Internship
-Oasis Infobyte Internship — OIBSIP
+Oasis Infobyte Internship — OIBSIP.
